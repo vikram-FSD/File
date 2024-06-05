@@ -1,6 +1,9 @@
-h1
+h1:hover
 {
     color: blue;
+    font-size: 10rem;
+
+    
 }
 body
 {
